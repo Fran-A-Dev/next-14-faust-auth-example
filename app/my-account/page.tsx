@@ -32,8 +32,6 @@ export default async function Page() {
         <h2>Welcome {data.viewer.name}!</h2>
       </div>
       <div className="flex justify-center mb-4">
-        {" "}
-        {/* Add margin-bottom */}
         <h3 className="font-bold underline text-blue-900">
           My Post Titles List
         </h3>
